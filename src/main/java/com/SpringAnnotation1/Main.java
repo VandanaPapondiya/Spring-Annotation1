@@ -1,6 +1,5 @@
-package com.example;
+package com.SpringAnnotation1;
 
-import javafx.application.Application;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

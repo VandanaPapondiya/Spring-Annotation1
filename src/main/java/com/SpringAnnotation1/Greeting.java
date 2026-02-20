@@ -1,4 +1,4 @@
-package com.example;
+package com.SpringAnnotation1;
 import org.springframework.stereotype.Component;
 
 @Component
